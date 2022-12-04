@@ -1,0 +1,106 @@
+.club{
+    display: block;
+    
+}
+
+.clubWrapper{
+    padding: 20px;
+}
+
+.clubBox {
+    width: 585px;
+    border: 5px solid #645A81;
+    padding: 10px;
+    margin: 20px;
+    height: 580px;
+    display: block;
+  }
+
+.clubName {
+    background-color: #645A81;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    text-align: center;
+
+}  
+
+.clubDesc{
+    background-color: white;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 8px;
+    height: 93px;
+}
+
+.clubImg{
+    padding-top: 5px;
+    width: 60px;
+    height: 352px;
+    display: flex;
+}
+
+.clubMembers{
+    text-align: center;
+    background-color: #645A81;
+    color: white;
+    margin-top: 30px;
+}
+
+.member-names {
+    display: flex;
+    flex-direction: column;
+    color: red;
+}
+
+
+.clubBox1 {
+    width: 585px;
+    border: 5px solid brown;
+    padding: 10px;
+    margin: 20px;
+    height: 580px;
+    display: block;
+  }
+
+.clubName1 {
+    background-color: brown;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    text-align: center;
+
+}  
+
+.clubDesc1{
+    background-color: white;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 8px;
+    height: 93px;
+}
+
+.clubImg1{
+    padding-top: 5px;
+    padding-left: 20px;
+    width: 60px;
+    height: 352px;
+    display: flex;
+}
+
+.clubMembers1{
+    text-align: center;
+    background-color: brown;
+    color: white;
+    margin-top: 30px;
+}
+
+.member-names1 {
+    display: flex;
+    flex-direction: column;
+    color: red;
+}
